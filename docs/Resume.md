@@ -41,7 +41,7 @@ Use my community, data and policy skills to transition to a career in local gove
 ---
 
 ## Communication
-- Public communication: community engagement planning, membership surveys, news releases, newsletters, flyers, public presentations, public testimony, tabling, social media, web sites.  
+- **Public communication:** community engagement planning, membership surveys, news releases, newsletters, flyers, public presentations, public testimony, tabling, social media, web sites.  
 - **Languages:** Fluent in German; working proficiency in Spanish and French.
 
 ---
