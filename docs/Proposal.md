@@ -14,7 +14,7 @@ Therefore, in the fall of 2025, the Boyds Historical Society succesfully applied
 
 For this capstone project, research questions include:
 
--- How can the Transkribus platform be most cost-efficiently used to provide a usable automated transcription? Each page transcription costs 1 credit per time. A subscription that costs 99€ (currently roughly $115) comes with 500 credits. Additional credits must be bought additionally.
+-- How can the Transkribus platform be most cost-efficiently used to provide a usable automated transcription? Each page transcription costs 1 credit per time. A subscription that costs 99€ (currently roughly $115) comes with 900 credits. Additional credits must be bought additionally.
 -- What other automated transcription options are available?
 -- How do open-source automated transcription options compare to Transkribus? Comparison measures include 
 ---- ease of use
