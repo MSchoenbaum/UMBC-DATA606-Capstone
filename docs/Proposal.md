@@ -1,7 +1,11 @@
 ## TRANSCRIBING THE BOYDS STORE LEDGER, 1904-1906
+
 Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
+
 Miriam Schoenbaum
+
 https://github.com/MSchoenbaum/UMBC-DATA606-Capstone
+
 https://www.linkedin.com/in/miriam-s-b52ba9326/
 
 ## BACKGROUND
