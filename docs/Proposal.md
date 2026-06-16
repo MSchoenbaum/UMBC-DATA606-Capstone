@@ -14,24 +14,24 @@ Therefore, in the fall of 2025, the Boyds Historical Society succesfully applied
 
 For this capstone project, research questions include:
 
--- How can the Transkribus platform be most cost-efficiently used to provide a usable automated transcription? Each page transcription costs 1 credit per time. A subscription that costs 99€ (currently roughly $115) comes with 900 credits. Additional credits must be bought additionally.
--- What other automated transcription options are available?
--- How do open-source automated transcription options compare to Transkribus? Comparison measures include 
----- ease of use
----- cost in time and effort 
----- dollar cost
----- skills required
----- accuracy (including train/test accuracy where available)
----- privacy/control over proprietary data
+- How can the Transkribus platform be most cost-efficiently used to provide a usable automated transcription? Each page transcription costs 1 credit per time. A subscription that costs 99€ (currently roughly $115) comes with 900 credits. Additional credits must be bought additionally.
+- What other automated transcription options are available?
+- How do open-source automated transcription options compare to Transkribus? Comparison measures include 
+- ease of use
+- cost in time and effort 
+- dollar cost
+- skills required
+- accuracy (including train/test accuracy where available)
+- privacy/control over proprietary data
 
 ## DATA
 
--- Data source: the Boyds store ledger, 1904-1906.
--- Data size: 464 jpg files, 1.91 GB total, individual files 2.5-8.5 MB
--- Time period: 1904-1906
--- Each file represents: one page in the store ledger. Generally, there is one customer per page. A few ledger pages have two customers per page. Some customers have more than one page in the ledger. 
--- File description: The pages are in column format. The header information is customer name, year, and ledger page number. The columns represent, from left to right: the month of the sold-to transaction, the date of the sold-to transaction, the word to, the items and quantities sold, the dollar amount, the month of the bought-from transaction, the date of the bought-from transaction, the dollar amount. In addition, there are occasional rows representing the customer’s balance.
--- Data type: Mixed words and numbers. Includes abbreviations and underlined superscript. At least two different handwritings, one bad, one less bad.
+- Data source: the Boyds store ledger, 1904-1906.
+- Data size: 464 jpg files, 1.91 GB total, individual files 2.5-8.5 MB
+- Time period: 1904-1906
+- Each file represents: one page in the store ledger. Generally, there is one customer per page. A few ledger pages have two customers per page. Some customers have more than one page in the ledger. 
+- File description: The pages are in column format. The header information is customer name, year, and ledger page number. The columns represent, from left to right: the month of the sold-to transaction, the date of the sold-to transaction, the word to, the items and quantities sold, the dollar amount, the month of the bought-from transaction, the date of the bought-from transaction, the dollar amount. In addition, there are occasional rows representing the customer’s balance.
+- Data type: Mixed words and numbers. Includes abbreviations and underlined superscript. At least two different handwritings, one bad, one less bad.
 
 
 
