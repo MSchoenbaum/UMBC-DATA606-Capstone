@@ -1,1 +1,1 @@
-The data for the capstone project are proprietary and therefore have not been uploaded here.
+The data are the test images for the PyLaia code.
