@@ -1,1 +1,1 @@
-The moving finger writes; and, having writ, moves on.
+train T h e <space> m o v i n g <space> f i n g e r <space> w r i t e s ; <space> a n d , <space> h a v i n g <space> w r i t , <space> m o v e s <space> o n .

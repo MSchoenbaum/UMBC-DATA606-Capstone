@@ -1,1 +1,1 @@
-a line, nor all thy tears wash out a word of it.
+test a <space> l i n e , <space> n o r <space> a l l <space> t h y <space> t e a r s <space> w a s h <space> o u t <space> a <space> w o r d <space> o f <space> i t .
