@@ -85,7 +85,7 @@ Gemini offers users the option of uploading an image and receiving a transcripti
 
 **Skills required**: The manual transcriber needs to have familiarity with handwriting and historical context.
 
-**Privacy/control of proprietary data**:  The From the Page platform claims a nonexclusive license to publish users’ data on From The Page Services, including anything reasonably related to publishing it (like storing, displaying, reformatting, and distributing it), as well as using the data to promote FromThePage, including its products and content.  Users can delete their data.
+**Privacy/control over proprietary data**:  The From the Page platform claims a nonexclusive license to publish users’ data on From The Page Services, including anything reasonably related to publishing it (like storing, displaying, reformatting, and distributing it), as well as using the data to promote FromThePage, including its products and content.  Users can delete their data.
 
 ### PYLAIA
 
