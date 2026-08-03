@@ -10,7 +10,7 @@ Summer 2026
 [Final PowerPoint presentation]( https://github.com/MSchoenbaum/UMBC-DATA606-Capstone/blob/4dd3182c6f68601ed8d13fac67778709fe64a8c7/docs/Capstone%20presentation.pptx
 )
 
-[YouTube video](URL)
+[Video of presentation]( https://github.com/MSchoenbaum/UMBC-DATA606-Capstone/blob/c8b16a2af174477d9149a7c75a95c9bc12636fe2/docs/Video%20presentation.ppsx)
 
 ## BACKGROUND
 
