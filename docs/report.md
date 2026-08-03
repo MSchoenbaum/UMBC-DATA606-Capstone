@@ -55,7 +55,7 @@ A table format was created for the manual transcription. Anyone can create an ac
 
 At the beginning of this project, 8 pages had been manually transcribed. An additional 9 pages were manually transcribed to prepare for training the Transkribus model (described below). 
 
-### PYLAIA PYTHON LIBRARY
+### PYLAIA
 
 PyLaia is a toolkit for Automatic Text Recognition and Keyword Spotting. Documentation is posted at [PyLaia documentation]( https://doc.teklia.com/pylaia/). PyLaia has the capability of generating trainable models for transcribing individual text line images.
 
@@ -113,7 +113,7 @@ The coding for this part of the project was done in Google Colab, using Python 3
 
 **Ease of use**: At minimum, there was an additional step of manually identifying all of the individual lines in each image for ground truth. The general version of Transkribus was not able to reliably identify individual lines on its own.
 
-**Dollar cost**: This project used the grant from Heritage Montgomery to buy a one-year subscription from Transkribus for €99. Preparing ground truth images and running training models does not use up credits. Using the training model to transcribe images uses up one credit per page, each time. 
+**Dollar cost**: This project used the grant from Heritage Montgomery to buy a one-year subscription from Transkribus for 99€. Preparing ground truth images and running training models does not use up credits. Using the training model to transcribe images uses up one credit per page, each time. 
 
 **Skills required**: It is likely that someone with more experience using Transkribus would be able to produce better results with training the model. Transkribus has posted a lot of webinars to YouTube to help users use the platform more effectively.
 
@@ -155,7 +155,7 @@ There are at least two limitations to this project.
 
 1. The Boyds store ledger may not be a typical handwritten historical document. The mix of words, abbreviations, numbers, and annotations may complicate the transcription task. The semi-regular format – not really a table but somewhat tabular, generally linear but in columns – may also complicate the transcription task. All four of the transcription methods, including manual transcription, might be more succesful with a more regular handwritten historical document.
 
-2. It’s likely that many researchers examining handwritten historical documents do not have a data science background. Even Gemini, which is the easiest automated transcription method for the general user, would require access to an API. The alternative would be manually uploading 436 pages (minus the blank pages) into Gemini, one at a time.
+2. It’s likely that many researchers examining handwritten historical documents do not have a data science background. Even Gemini, which is the easiest automated transcription method for the general user, would require access to an API. The alternative would be manually uploading 464 pages (minus the blank pages) into Gemini, one at a time.
 
 ## FUTURE RESEARCH DIRECTIONS
 
